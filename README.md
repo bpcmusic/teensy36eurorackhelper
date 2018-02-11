@@ -11,6 +11,8 @@ This board adds a voltage supervisor that delays the start of the Teensy (via th
 
 ![Top](https://raw.githubusercontent.com/bpcmusic/teensy36eurorackhelper/master/top.png) ![Botton](https://raw.githubusercontent.com/bpcmusic/teensy36eurorackhelper/master/bottom.png)
 
+<a href="https://oshpark.com/shared_projects/2kwylotu"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
+
 More details are in this thread: 
 
 https://forum.pjrc.com/threads/44704-Boot-on-Power-Up-Problem-with-three-T3-6s
