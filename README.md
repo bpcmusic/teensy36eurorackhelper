@@ -13,8 +13,24 @@ This board adds a voltage supervisor that delays the start of the Teensy (via th
 
 <a href="https://oshpark.com/shared_projects/2kwylotu"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
 
-More details are in this thread: 
+You can always use Eagle to create your own Gerbers and select your own fab house.
+
+## Project BOM:
+
+* 1 x MIC803 (MIC803-26D2VM3-TR
+): http://www.mouser.com/search/ProductDetail.aspx?r=998%2dMIC803%2d26D2VM3TR
+
+* 1 x 100k 1% 0603 Resistor (71-CRCW0603100KFKEAC
+): https://www.mouser.com/ProductDetail/71-CRCW0603100KFKEAC?r=71-CRCW0603100KFKEAC
+
+* 2 x 1x4 Male Headers (appropriate to your installation)
+
+* 1 x 1x5 Male Header (appropriate to your installation)
+
+---
+
+More details are in this thread over at the Teensy forum: 
 
 https://forum.pjrc.com/threads/44704-Boot-on-Power-Up-Problem-with-three-T3-6s
 
-Thanks to everyone there (especially neutron7) for finding the solution. All I did was panel the thing up. Saved my bacon on a project, though. :)
+Thanks to everyone there (especially neutron7) for finding the solution. All I did was panel the thing up. Saved my bacon on a project. :)
